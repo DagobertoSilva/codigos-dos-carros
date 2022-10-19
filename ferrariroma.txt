@@ -1,4 +1,4 @@
-import "./App.css";
+import "./Ferrari";
 import R8 from "./img/R8.png";
 import speed from "./img/speed.png";
 import rain from "./img/rain.png";
@@ -66,15 +66,15 @@ function App() {
             <ul>
               <li>
                 <span>Engine displacement</span>
-                <span>5204</span>
+                <span>235</span>
               </li>
               <li>
                 <span>Maximun power</span>
-                <span>601.4 bhp @ 8250 rpm</span>
+                <span>611 @ 7500 rpm</span>
               </li>
               <li>
                 <span>Maximum torque</span>
-                <span>560 Nm @6500 rpm </span>
+                <span>561 @ 3000 rpm </span>
               </li>
               <li>
                 <span>Turning radius</span>
@@ -98,7 +98,7 @@ function App() {
               </li>
               <li>
                 <span>Fuel Supply</span>
-                <span>Direct injection</span>
+                <span>Gasoline Direct Injection</span>
               </li>
             </ul>
           </div>

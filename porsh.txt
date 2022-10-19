@@ -69,15 +69,15 @@ function App() {
             <ul>
               <li>
                 <span>Engine displacement</span>
-                <span>5204</span>
+                <span>2981</span>
               </li>
               <li>
                 <span>Maximun power</span>
-                <span>601.4 bhp @ 8250 rpm</span>
+                <span>641.00 bhp @6500 rpm</span>
               </li>
               <li>
                 <span>Maximum torque</span>
-                <span>560 Nm @6500 rpm </span>
+                <span>450 Nm 1950–5000 rpm </span>
               </li>
               <li>
                 <span>Turning radius</span>
